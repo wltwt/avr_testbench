@@ -1,3 +1,6 @@
+.genereted_files/
+debug/
+
 # Prerequisites
 *.d
 
