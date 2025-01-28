@@ -1,6 +1,7 @@
-.genereted_files/
+.generated_files/
 debug/
 
+nbproject/private/
 # Prerequisites
 *.d
 
